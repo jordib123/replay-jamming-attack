@@ -1,6 +1,10 @@
 # replay-jamming-attack
 An automated replay and jamming attack against Remote Keyless Entry (RKE) systems in vehicles using software-defined radios.
 
+# Legal warning
+
+This implementation is for EDUCATIONAL PURPOSES ONLY. Don't use it for illegal activities. You are the only responsable for your actions!
+
 # Background
 
 ## Replay and jamming attack
